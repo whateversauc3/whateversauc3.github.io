@@ -16,4 +16,4 @@ One final note before I close out this blog post. Wanna know what cost me about 
 
 Cheers!
 
-[here]({{ site.baseurl }}{ link _posts/2019-05-08-jekyll-stuff.md %}) is the link to the previous post
+[here]({{ site.baseurl }}{% link _posts/2019-05-08-jekyll-stuff.md %}) is the link to the previous post
