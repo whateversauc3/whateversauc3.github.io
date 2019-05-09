@@ -21,7 +21,7 @@ Also, when I told my mentor about landing my dream job he told me to pay it forw
 mentor everyone. So for those I don't have time to directly mentor, this blog will act as a proxy to mentor on my behalf. So be cool with the information I
 provide here. Don't use it for evil, pwn for good! 
 
-Anyway, if you dig this blog and junk, give me a follow on Twitter and let me know. Check out the next post [here]({{ site.baseurl }}{% post_url 2019-05-07-second-post %})
+Anyway, if you dig this blog and junk, give me a follow on Twitter and let me know. Check out the next post [here]({% post_url 2019-05-07-second-post %})
 
 Cheers!
 
