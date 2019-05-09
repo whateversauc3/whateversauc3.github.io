@@ -33,3 +33,5 @@ I'm splitting up my vacation time between this blog and porting an exploit to Me
 For now, I'm going to leave it here. It's dinner time and I'm going to go wolf down some food.
 
 Cheers and HACK THE PLANET!
+
+[here]({{ site.baseurl }}{% link _posts/2019-05-09-stupid-lessons-learned.md %}) is the next post. 
