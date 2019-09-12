@@ -1,5 +1,4 @@
 Welcome back!
-_ _ _ 
 
 Howdy, internet friend! It's been a while since my last blog post, so I figured it was about time. In this post I am going to talk about my experiences in programming. I've actually written a post about my first time at DefCON as well, which was at least 50% written so I have a reminder to myself next year about what I should and shouldn't do. However, life got really hectic and it still hasn't been edited yet. Once it is edited, I will be sure to post it. However, in the meantime, I wanted to share a post about something that's been keeping me busy for the last two weeks or so. Before I do that though, I want to talk briefly about one of my other projects in the works.
 
